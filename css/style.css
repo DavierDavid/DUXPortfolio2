@@ -21,6 +21,10 @@ html, body {
       }
 }
 
+.grey{
+      color: grey;
+}
+
 /*--------------- typewriter effect --------------- */
 .line {
       width: 26em;
@@ -471,7 +475,7 @@ h6 {
 	margin: 0 0 24px 0;
 	padding: 12px;
 	background: #1e1e1e;
-	transition: all 200ms;
+      transition: all 200ms;
 }
 
 .wall-item:hover{
@@ -502,11 +506,11 @@ h6 {
 
 .wall-column {
 	display: block;
-	position: relative;
-	width: 33.3333%;
+      position: relative;
+      width: 33.33333%;
 	float: left;
 	padding: 0 12px;
-	box-sizing: border-box;
+      box-sizing: border-box;
 }
 
 @media (max-width: 640px) {

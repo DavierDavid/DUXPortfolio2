@@ -25,6 +25,10 @@ html, body {
       color: grey;
 }
 
+.project{
+      text-shadow: 0 3px 5px #000000;
+}
+
 /*--------------- typewriter effect --------------- */
 .line {
       width: 26em;

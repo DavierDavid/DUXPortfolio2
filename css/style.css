@@ -374,6 +374,7 @@ h6 {
       left: 53%;
       right: 0;
       bottom: 0;
+      text-shadow: 0 3px 5px #000000;
 }
 
 .project2 {
@@ -393,6 +394,7 @@ h6 {
       left: 50%;
       right: 0;
       bottom: 0;
+      text-shadow: 0 3px 5px #000000;
 }
 
 .project3 {
@@ -412,6 +414,7 @@ h6 {
       left: -28%;
       right: 0;
       bottom: 0;
+      text-shadow: 0 3px 5px #000000;
 }
 
 .project4 {
@@ -430,6 +433,7 @@ h6 {
       left: 90%;
       right: 0;
       bottom: 0;
+      text-shadow: 0 3px 5px #000000;
 }
 
 #rotate{
